@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="HdsCplLdr/HdsCplLdr.vcxproj" Id="b1c699be-8fb6-4d95-b20a-d311aa90c373" />
+</Solution>
